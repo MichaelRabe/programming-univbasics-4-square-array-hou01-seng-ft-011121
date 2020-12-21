@@ -3,5 +3,6 @@ new_array=[]
 
 def square_array(array)
   while square_array(aryay) do
-    array
+    puts array
+  end
 end
