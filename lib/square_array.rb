@@ -2,6 +2,6 @@ array=[1, 2, 3]
 square_array=[]
 
 array.length.times do 
-  square_array.push(array)
+  square_array.push(array[index]**)
 end
 square_array
