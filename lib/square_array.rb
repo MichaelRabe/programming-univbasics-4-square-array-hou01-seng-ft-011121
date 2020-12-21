@@ -4,3 +4,4 @@ square_array=[]
 array.length.times do 
   square_array.push(array)
 end
+square_array
