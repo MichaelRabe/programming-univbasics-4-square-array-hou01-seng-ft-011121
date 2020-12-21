@@ -1,8 +1,6 @@
 array=[1, 2, 3]
 square_array=[]
 
-def square_array(array)
-  while array.length.times {
-    puts array[index]**
-  }
+array.length.times do 
+  square_array.push(array)
 end
